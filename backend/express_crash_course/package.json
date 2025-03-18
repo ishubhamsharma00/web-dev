@@ -1,0 +1,32 @@
+{
+  "name": "express_crash_course",
+  "version": "1.0.0",
+  "description": "learning express and backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ishubhamsharma00/web-dev.git"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "node"
+  ],
+  "author": "Shubham Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishubhamsharma00/web-dev/issues"
+  },
+  "homepage": "https://github.com/ishubhamsharma00/web-dev#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
